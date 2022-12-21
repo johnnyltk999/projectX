@@ -1,3 +1,3 @@
 # projectX
 
-this project is about traveling website(just Deme)
+this project is about traveling website(just Demo)
