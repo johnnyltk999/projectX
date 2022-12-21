@@ -1,0 +1,41 @@
+body,html{
+    height: 100%;
+    margin:0;
+    padding: 0;
+}
+body{
+    background-image:url('https://media.istockphoto.com/vectors/realistic-mountains-landscape-morning-wood-panorama-pine-trees-and-vector-id1150481340?k=20&m=1150481340&s=612x612&w=0&h=y_RdS4lPY2p7O_bh1ZhaeLLOOuSLNBaHZFMdmgdQaVE=');
+    height: 100%;
+    background-position:cover;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.home{
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 16pt;
+    font-weight: bold;
+}
+
+.home ul{
+    margin: 0;
+    padding: 8px 0;
+    list-style: none;
+    height: auto;
+    text-align: center;
+
+}
+.home li{
+    padding: 8px;
+    
+}
+.home a{
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    
+}
+.home a:hover{
+    color:black;
+    background: white;
+    border-radius: 20px;
+}

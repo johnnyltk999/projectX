@@ -1,0 +1,21 @@
+body,html{
+    height: 100%;
+    margin:0;
+    padding: 0;
+}
+body{
+    background-image:url('https://a.cdn-hotels.com/gdcs/production164/d100/b452b226-b994-474b-b6b3-1843f3a7cc2d.jpg');
+    background-repeat:no-repeat;
+    background-position:cover;
+    background-size:cover;
+}
+
+.pic ul{
+    margin: 0;
+    padding: 8px 0;
+    list-style: none;
+    height: auto;
+}
+.pic li{
+    width: 800;
+}

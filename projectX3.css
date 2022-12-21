@@ -1,0 +1,83 @@
+body,html{
+    height: 100%;
+    margin:0;
+    padding: 0;
+    
+}
+body{
+    background-image:url('https://media.istockphoto.com/photos/patuxai-monument-in-vientiane-picture-id831586564?b=1&k=20&m=831586564&s=170667a&w=0&h=_4_tFIBbPyeugER632Erle-RKKg3RTMuv28QVyD20Xw=');
+    backdrop-filter:blur(2px);
+    height: 100%;
+    background-position:cover;
+    background-repeat:no-repeat;
+    background-size: cover;
+    
+}
+.menu {
+    margin: 0;
+    font-size: 16px;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-weight: bold;
+    padding: 8px;
+    border-radius: 8px;
+    margin:10px;
+    
+    
+    /* -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -o-border-radius: 8px; */
+}
+
+.menu ul {
+    margin: 0;
+    padding: 8px 0;
+    list-style: none;
+    height: auto;
+    /* text-align: center; */
+}
+
+.menu li {
+    display: inline;
+    padding: 8px;
+    
+}
+
+.menu a {
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    
+}
+
+.menu a:hover {
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+}
+
+  .province{
+    height:500px;
+    width:255px;
+    overflow-x: auto;
+
+  }
+  .province a{
+    font-family: phetsarath OT;
+    width: 200px;
+    height: auto;
+    color: white;
+    /* background-color:black; */
+    border-radius: 5px;
+    display:block;
+    text-decoration: none;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+    font-size:16pt;
+
+  }
+  .province a:hover{
+    background-color:black;
+    color: white;
+    opacity:70%;
+  }
